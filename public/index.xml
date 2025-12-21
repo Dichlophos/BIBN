@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Мой Супер Сайт on Ktososal?</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Мой Супер Сайт on Ktososal?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Dec 2025 10:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 21 Dec 2025 23:20:33 +0300</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Кратчайший путь на сфере</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 18 Dec 2025 02:42:09 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B3%D0%B5%D0%BE%D0%B4%D0%B5%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9&#34;&gt;Уравнение геодезической&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5&#34;&gt;Решение&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;введение&#34;&gt;&lt;code&gt;Введение&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Нахождение кратчайшего пути на плоской Земле - тривиальная задача. Соедините две точки прямой линией и готово. А вот решение подобной задачи на шарообразной Земле куда менее тривиально. Текущий материал, предназначенный для школьников, изучающих курс географии 6 класса, используя лишь методы элементарной математики покажет, по какой траектории двигаться, чтобы минимизировать расстояние между точками&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Sphere1.png&#34; alt=&#34;График решения&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Естественным будет начать, вспомнив &lt;strong&gt;основы дифференциальной геометрии&lt;/strong&gt;. Локально минимизирует расстояние между двумя точками кривая, называемая геодезической. Важно, что между двумя точками может проходить не одна геодезическая, а также конкретная геодезическая может и не быть глобальным минимумом длины. Геодезическая, которая среди всех, проходящих через некоторые две точки, имеет минимальную длину, называется минимальной. Минимальные геодезические уже являются глобальными минимумами длины. Но в нашей задаче из сферической симметрии нашей поверхности следует то, что через две точки проходит единственная, полностью продолженная, геодезическая. А значит дуга между этими точками является минимумом расстояния.&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ОБО МНЕ</title>
+      <link>http://localhost:1313/posts/my-first-post--%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post--%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      
+      <description>&lt;h1 id=&#34;никита-поляков&#34;&gt;Никита Поляков&lt;/h1&gt;
+&lt;p&gt;Крашу кнопки, верстаю сайты автомоек. Ещё немного математик. Ешё немного учусь на физфаке&lt;/p&gt;
+&lt;p&gt;Создаю элитарный математический щитпост. Опыт работы - 7 лет.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B&#34;&gt;Связаться со мной&lt;/a&gt; • &lt;a href=&#34;#%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE&#34;&gt;Мои работы&lt;/a&gt; • &lt;a href=&#34;#%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5&#34;&gt;Обо мне&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;обо-мне&#34;&gt;Обо мне&lt;/h2&gt;
+&lt;p&gt;Привет! Меня зовут Никита, и я страдаю фигнёй уже 7 лет. Специализируюсь на &lt;strong&gt;Заметим, что&amp;hellip;&lt;/strong&gt;, &lt;strong&gt;Нетрудно видеть&amp;hellip;&lt;/strong&gt; и &lt;strong&gt;Это предоставлено читателю в качестве упражнения&amp;hellip;&lt;/strong&gt;. Проверил 35 доказательств Гипотезы Римана. 35 из них оказались ложными&lt;/p&gt;
+&lt;h3 id=&#34;навыки&#34;&gt;Навыки&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend: React(Покраска кнопок, каруселька), LaTeX&lt;/li&gt;
+&lt;li&gt;Backend: PHP, WordPress, Node.js&lt;/li&gt;
+&lt;li&gt;Языки: Русский (родной), Английский (C1)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;услуги&#34;&gt;Услуги&lt;/h2&gt;
+&lt;h3 id=&#34;разработка-сайтов&#34;&gt;Разработка сайтов&lt;/h3&gt;
+&lt;p&gt;Могу&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

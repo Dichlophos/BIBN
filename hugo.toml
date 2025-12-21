@@ -1,0 +1,11 @@
+baseURL 
+languageCode= "en-US"
+title = 'Ktososal?'
+theme = 'hugo-blog-awesome'
+[params]
+  math = true
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Dichlophos"
+
+
